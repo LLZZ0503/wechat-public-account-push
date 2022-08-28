@@ -10,7 +10,7 @@ export const config = {
     // 模板消息id
     TEMPLATE_ID: "",gh_f020b472789c
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    USERS: ["LLzzh0324"],
+    USERS: ["ohv3W5liYmroAuBJr2Mkxn6Dh6AY"],
      
     /**
      * 信息配置
@@ -43,7 +43,7 @@ export const config = {
 
     // 好文节选的内容类型
     // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-    LITERARY_PREFERENCE: ""
+    LITERARY_PREFERENCE: "I Love You Three Thousand Times"
 
 
     }
